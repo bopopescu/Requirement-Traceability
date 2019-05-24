@@ -1,0 +1,18 @@
+tfidf_threshold=0.1-----0.05
+lda_threshold=0.8-----0.8
+topic_num=30
+tfidf_finalLinks	823	=====>	1106
+lda_finalLinks	316	=====>	417
+finalLinks	1038	=====>	1374
+tfidf_CorrectLinks	175	=====>	239
+lda_CorrectLinks	35	=====>	47
+myCorrectLinks	181	=====>	244
+tfidf_precision	0.212636695018226	=====>	0.21609403254972875
+lda_precision	0.11075949367088607	=====>	0.11270983213429256
+precision	0.174373795761079	=====>	0.17758369723435224
+tfidf_recall	0.4654255319148936	=====>	0.6356382978723404
+lda_recall	0.09308510638297872	=====>	0.125
+recall	0.48138297872340424	=====>	0.648936170212766
+tfidf_only_correct	146	=====>	197
+lda_only_correct	6	=====>	5
+common_correct	29	=====>	42

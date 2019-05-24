@@ -1,0 +1,638 @@
+UC1	ControlServerLauncher	0.90143895
+UC1	DBBanner	0.90143895
+UC1	DBNews	0.90143895
+UC1	IGestioneTuristiAgenzia	0.90143895
+UC1	GestioneTuristaComune	0.9009397
+UC1	GestioneAdvertisementAgenzia	0.8598898
+UC1	DBOperatoreAgenzia	0.83494776
+UC1	IGestionePuntiDiRistoroAgenzia	0.81943595
+UC1	IDBPiatto	0.8022629
+UC1	IRicerca	0.7525269
+----------------------------------------------------------------------------------
+UC10	IGestioneTuristiAgenzia	0.8264016
+UC10	Fuzzy	0.8007215
+UC10	DBVisitaBC	0.6938152
+UC10	GestioneAdvertisementAgenzia	0.6938152
+UC10	GestionePuntiDiRistoroAgenzia	0.6938152		[##]
+UC10	GestioneTagComune	0.6938152
+UC10	GestioneTagOperatoreAgenzia	0.6938152
+UC10	IGestioneAdvertisementAgenzia	0.6938152
+UC10	IGestioneBeniCulturaliAgenzia	0.6938152
+UC10	IGestioneBeniCulturaliComune	0.6938152
+----------------------------------------------------------------------------------
+UC11	BeanBanner	0.85080934
+UC11	BeanPreferenzaDiRicerca	0.85080934
+UC11	BeanPreferenzeGeneriche	0.85080934
+UC11	ControlloVisiteBeniCulturali	0.85080934
+UC11	IDBConvenzione	0.85080934		[##]
+UC11	IDBTag	0.8444045
+UC11	IDBOperatoreAgenzia	0.82064784
+UC11	DBPreferenzeGeneriche	0.81387204
+UC11	IDBPreferenzeGeneriche	0.7843698
+UC11	GestioneBeniCulturaliAgenzia	0.65500814
+----------------------------------------------------------------------------------
+UC12	DBConvenzione	0.81162256
+UC12	ControlloDati	0.700372
+UC12	DBVisitaBC	0.69480866
+UC12	IAutenticazione	0.69480866
+UC12	IGestioneAdvertisementPuntoDiRistoro	0.69480866
+UC12	OperatoreAgenzia	0.69480866
+UC12	ControlloDatiAdvertisement	0.6944126
+UC12	ControlServerLauncher	0.66116357
+UC12	CostantiGlobali	0.66116357
+UC12	MessaggiErrore	0.66116357
+----------------------------------------------------------------------------------
+UC13	Autenticazione	0.87571794
+UC13	GestionePuntiDiRistoroAgenzia	0.87571794
+UC13	GestioneTagComune	0.87571794
+UC13	GestioneTuristaComune	0.87571794
+UC13	IGestioneTagComune	0.87571794
+UC13	MessaggiErrore	0.87571794
+UC13	Banner	0.873934
+UC13	GestioneAdvertisement	0.7081812
+UC13	GestioneTagOperatoreAgenzia	0.6214054
+UC13	GestioneTuristiAgenzia	0.5479333		[##]
+----------------------------------------------------------------------------------
+UC14	GestioneBeniCulturaliAgenzia	0.9753157
+UC14	GestionePuntiDiRistoroAgenzia	0.9753157
+UC14	GestionePuntiDiRistoroComune	0.9753157
+UC14	GestioneTuristaComune	0.9753157
+UC14	GestioneTuristiAgenzia	0.9753157		[##]
+UC14	IGestioneBeniCulturaliAgenzia	0.9753157
+UC14	IGestioneBeniCulturaliComune	0.9753157
+UC14	IGestioneTuristiAgenzia	0.9753157		[##]
+UC14	GestioneBeniCulturaliComune	0.96465975
+UC14	GestioneTagOperatoreAgenzia	0.9612657
+----------------------------------------------------------------------------------
+UC15	GestionePuntiDiRistoroAgenzia	0.9847087
+UC15	GestionePuntiDiRistoroComune	0.9847087
+UC15	GestioneTagOperatoreAgenzia	0.9847087
+UC15	GestioneTuristaComune	0.9847087		[##]
+UC15	GestioneTuristiAgenzia	0.9847087		[##]
+UC15	IDBVisitaBC	0.9847087
+UC15	IDBVisitaPR	0.9847087
+UC15	RicercaAvanzata	0.9847087
+UC15	IGestioneTuristiAgenzia	0.9836413		[##]
+UC15	GestioneTagComune	0.98361504
+----------------------------------------------------------------------------------
+UC16	MessaggiErrore	0.83460975
+UC16	Turisti	0.8035087
+UC16	GestionePuntiDiRistoroComune	0.5795633
+UC16	HelpManager	0.5374684
+UC16	IAutenticazione	0.5374684
+UC16	IGestioneBeniCulturaliAgenzia	0.5374684
+UC16	IGestioneAdvertisementPuntoDiRistoro	0.5287454
+UC16	GestioneTuristaComune	0.5061983
+UC16	TuristiTableModel	0.25190347
+UC16	IGestioneBeniCulturaliComune	0.16934082
+----------------------------------------------------------------------------------
+UC17	IDBConvenzione	0.8890041
+UC17	BeniCulturali	0.88031894
+UC17	MessaggiErrore	0.88031894
+UC17	Turisti	0.87784994
+UC17	DBConvenzione	0.8775989
+UC17	OperatoreAgenzia	0.87144846
+UC17	GestioneTuristiAgenzia	0.83292854
+UC17	GestionePuntiDiRistoroComune	0.7926582
+UC17	GestioneBeniCulturaliComune	0.6162606
+UC17	GestioneTuristaClient	0.5801705
+----------------------------------------------------------------------------------
+UC18	MessaggiErrore	0.9243783		[##]
+UC18	GestioneAdvertisementAgenzia	0.6742323
+UC18	GestioneAdvertisementPuntoDiRistoro	0.6622256
+UC18	GestioneTagComune	0.6622256
+UC18	GestioneTuristaComune	0.6622256
+UC18	GestioneTuristiAgenzia	0.6622256
+UC18	IAutenticazione	0.6622256
+UC18	IGestioneTagComune	0.6622256
+UC18	IGestioneTagOperatoreAgenzia	0.6600958
+UC18	FeedBackTableModel	0.6594238
+----------------------------------------------------------------------------------
+UC19	GestioneAdvertisement	0.8614208		[##]
+UC19	BannerNode	0.7878282
+UC19	ControlloBeniCulturali	0.7878282
+UC19	ControlloDati	0.7878282
+UC19	ControlloDatiAdvertisement	0.7878282		[##]
+UC19	IDBOperatoreAgenzia	0.7878282
+UC19	FeedBackTableModel	0.78749967
+UC19	PRNode	0.786789
+UC19	IGestioneAdvertisementAgenzia	0.7504152		[##]
+UC19	IDBBanner	0.74132955		[##]
+----------------------------------------------------------------------------------
+UC2	IGestioneTuristaClient	0.9275005
+UC2	GestioneTuristaComune	0.88999945
+UC2	GestioneTuristaClient	0.8318436
+UC2	IGestioneTuristiAgenzia	0.7891255
+UC2	Ricerca	0.7852067
+UC2	Autenticazione	0.7815379
+UC2	GestioneBeniCulturaliAgenzia	0.7708009		[##]
+UC2	GestioneBeniCulturaliComune	0.7708009
+UC2	IGestioneBeniCulturaliAgenzia	0.7708009		[##]
+UC2	IGestioneBeniCulturaliComune	0.7708009
+----------------------------------------------------------------------------------
+UC20	GestioneTagOperatoreAgenzia	0.91677374
+UC20	GestioneBeniCulturaliAgenzia	0.9152874
+UC20	DBBeneCulturale	0.9147884
+UC20	DBTag	0.9147884
+UC20	GestioneAdvertisement	0.9147884		[##]
+UC20	GestioneAdvertisementAgenzia	0.9147884		[##]
+UC20	GestioneAdvertisementPuntoDiRistoro	0.9147884
+UC20	IDBBanner	0.9147884		[##]
+UC20	IDBTag	0.9147884
+UC20	IGestioneAdvertisement	0.9147884		[##]
+----------------------------------------------------------------------------------
+UC21	Autenticazione	0.8313482
+UC21	ControlServerLauncher	0.8313482
+UC21	DBBanner	0.8313482
+UC21	DBNews	0.8313482		[##]
+UC21	GestioneAdvertisement	0.8313482
+UC21	GestioneAdvertisementAgenzia	0.8313482		[##]
+UC21	GestioneAdvertisementPuntoDiRistoro	0.8313482
+UC21	GestioneTagComune	0.8313482
+UC21	GestioneTuristaComune	0.8313482
+UC21	IGestioneAdvertisementAgenzia	0.8313482		[##]
+----------------------------------------------------------------------------------
+UC22	IGestioneTagComune	0.79588896
+UC22	GestionePuntiDiRistoroAgenzia	0.77141154
+UC22	GestioneTagOperatoreAgenzia	0.77141154
+UC22	GestioneTuristiAgenzia	0.77141154
+UC22	IGestioneTuristiAgenzia	0.77141154
+UC22	GestioneTuristaComune	0.7674819
+UC22	GestionePuntiDiRistoroComune	0.7596163
+UC22	IDBMenu	0.4979184
+UC22	ScrollableTable	0.4979184
+UC22	IAutenticazione	0.48983818
+----------------------------------------------------------------------------------
+UC23	MessaggiErrore	0.9600491
+UC23	IGestioneTuristiAgenzia	0.9533254
+UC23	BannerNode	0.9501955
+UC23	BeanOperatoreAgenzia	0.9501955
+UC23	BeanOperatorePuntoDiRistoro	0.9501955
+UC23	IGestioneAdvertisementAgenzia	0.9501955		[##]
+UC23	PRNode	0.9501955
+UC23	IGestioneAdvertisement	0.9500338
+UC23	GestioneAdvertisement	0.9494734
+UC23	GestioneAdvertisementAgenzia	0.9198408		[##]
+----------------------------------------------------------------------------------
+UC24	PuntiDiRistoro	0.71422744
+UC24	GestioneBeniCulturaliAgenzia	0.69013196		[##]
+UC24	GestioneTagComune	0.69013196
+UC24	IDBOperatorePuntoDiRistoro	0.69013196
+UC24	TestoNewsRendererTest	0.69013196
+UC24	MediaVotiRenderer	0.68930835
+UC24	IGestioneBeniCulturaliAgenzia	0.68513054		[##]
+UC24	ControlServerLauncher	0.6729335
+UC24	BeniCulturali	0.61434495
+UC24	Ricerca	0.5361611
+----------------------------------------------------------------------------------
+UC25	Autenticazione	0.6452459
+UC25	GestioneTuristaComune	0.6452459
+UC25	GestioneTuristiAgenzia	0.6452459
+UC25	IAutenticazione	0.6452459
+UC25	GestioneTuristaClient	0.6428168
+UC25	GestionePuntiDiRistoroComune	0.6348596		[##]
+UC25	GestioneBeniCulturaliComune	0.5880545
+UC25	GestionePuntiDiRistoroAgenzia	0.5802889
+UC25	BannerDialog	0.55744267
+UC25	reportStatistici	0.55744267
+----------------------------------------------------------------------------------
+UC26	GestionePuntiDiRistoroComune	0.742077
+UC26	GestioneTuristaComune	0.742077
+UC26	GestioneTuristiAgenzia	0.742077
+UC26	IGestioneTuristiAgenzia	0.741196
+UC26	GestioneTagComune	0.7200759
+UC26	GestionePuntiDiRistoroAgenzia	0.7162997
+UC26	IGestioneTagComune	0.6976569
+UC26	FeedBackTableModel	0.64415914		[##]
+UC26	LimitedDocument	0.64415914
+UC26	MediaVotiRenderer	0.64415914
+----------------------------------------------------------------------------------
+UC27	IRicerca	0.6706753		[##]
+UC27	OperatoreAgenzia	0.6672447
+UC27	Ricerca	0.6672447		[##]
+UC27	RicercaStandard	0.6672447
+UC27	DBMenu	0.51826704
+UC27	DBPiatto	0.47632402
+UC27	IDBPiatto	0.47124484
+UC27	DBOperatoreAgenzia	0.4707718
+UC27	IDBOperatoreAgenzia	0.46502203
+UC27	IDBMenu	0.44110778
+----------------------------------------------------------------------------------
+UC28	MessaggiErrore	0.98434454
+UC28	TAGTableModel	0.9568713		[##]
+UC28	Banner	0.9378412
+UC28	BeanConvenzione	0.93091124
+UC28	GestioneAdvertisementAgenzia	0.9174356
+UC28	Fuzzy	0.8993203
+UC28	BeanPiatto	0.87395877
+UC28	IGestioneAdvertisement	0.79130006
+UC28	BeanPuntoDiRistoro	0.7670391
+UC28	BeanTag	0.585019		[##]
+----------------------------------------------------------------------------------
+UC29	DeskManager	0.73024684
+UC29	IAutenticazione	0.73024684
+UC29	GestioneTagOperatoreAgenzia	0.6971235		[##]
+UC29	IDBOperatorePuntoDiRistoro	0.53670394
+UC29	IDBVisitaBC	0.53670394
+UC29	IDBVisitaPR	0.53670394
+UC29	Turisti	0.53670394
+UC29	IDBTurista	0.5363669
+UC29	BeniCulturali	0.53628767
+UC29	Banner	0.45355576
+----------------------------------------------------------------------------------
+UC3	IGestioneBeniCulturaliAgenzia	0.9660733		[##]
+UC3	GestioneBeniCulturaliAgenzia	0.84392667		[##]
+UC3	SchedaBC	0.8212747
+UC3	DBBeneCulturale	0.8016852		[##]
+UC3	IDBBeneCulturale	0.7904673		[##]
+UC3	GestioneBeniCulturaliComune	0.7235647
+UC3	RicercaAvanzata	0.70197815
+UC3	IGestioneBeniCulturaliComune	0.6061255
+UC3	BeniCulturali	0.5524188		[##]
+UC3	IDBConvenzione	0.5217796
+----------------------------------------------------------------------------------
+UC30	IDBConvenzione	0.9834807
+UC30	DBConvenzione	0.97739905
+UC30	GestioneAdvertisementPuntoDiRistoro	0.97739905
+UC30	GestioneBeniCulturaliAgenzia	0.97739905
+UC30	GestionePuntiDiRistoroAgenzia	0.97739905
+UC30	GestionePuntiDiRistoroComune	0.97739905
+UC30	GestioneTagComune	0.97739905
+UC30	GestioneTuristaComune	0.97739905
+UC30	GestioneTuristiAgenzia	0.97739905
+UC30	IGestioneTagComune	0.97739905
+----------------------------------------------------------------------------------
+UC31	TuristiTableModel	0.7268725
+UC31	GestioneTagComune	0.7158741
+UC31	GestioneTuristaComune	0.7158741
+UC31	GestioneTuristiAgenzia	0.7158741
+UC31	IGestioneTagComune	0.7158741
+UC31	IGestioneTagOperatoreAgenzia	0.7158741
+UC31	IGestioneTuristiAgenzia	0.7158741
+UC31	SitoTableModel	0.7158741
+UC31	ReportTableModel	0.7134217
+UC31	GestionePuntiDiRistoroAgenzia	0.6554987
+----------------------------------------------------------------------------------
+UC32	GestionePuntiDiRistoroAgenzia	0.7113917
+UC32	GestionePuntiDiRistoroComune	0.7113917
+UC32	GestioneTuristaComune	0.7113917
+UC32	GestioneTuristiAgenzia	0.7113917
+UC32	NewsTableModelTest	0.7113917
+UC32	IGestionePuntiDiRistoroComune	0.69591093
+UC32	ControlloDatiAdvertisement	0.58994895
+UC32	DBConvenzione	0.58994895
+UC32	DBNews	0.58994895
+UC32	DBTurista	0.58994895
+----------------------------------------------------------------------------------
+UC33	News	0.80809873
+UC33	BeniCulturali	0.6370873
+UC33	GestioneTagComune	0.5558578
+UC33	GestioneTuristaComune	0.5558578
+UC33	GestioneTuristiAgenzia	0.5558578
+UC33	MessaggiErrore	0.5558578
+UC33	GestionePuntiDiRistoroAgenzia	0.5558224
+UC33	GestionePuntiDiRistoroComune	0.55557114
+UC33	GestioneTagOperatoreAgenzia	0.5449551
+UC33	OperatoreAgenzia	0.23280877
+----------------------------------------------------------------------------------
+UC34	FeedBackTableModel	0.7009597
+UC34	IAutenticazione	0.6224196
+UC34	IGestionePuntiDiRistoroComune	0.6224196		[##]
+UC34	PRNode	0.6224196
+UC34	IGestioneTagOperatoreAgenzia	0.6221618
+UC34	MediaVotiRenderer	0.62186825
+UC34	IGestionePuntiDiRistoroAgenzia	0.621604
+UC34	IGestioneTagComune	0.5928291
+UC34	BeniCulturali	0.55602825
+UC34	ControlloVisiteBeniCulturali	0.55602825
+----------------------------------------------------------------------------------
+UC35	IGestioneBeniCulturaliAgenzia	0.9905839
+UC35	FeedBackTableModel	0.9788636
+UC35	GestioneAdvertisementAgenzia	0.9788636
+UC35	GestioneTagOperatoreAgenzia	0.9788636
+UC35	GestioneTuristaClient	0.9788636
+UC35	IAutenticazione	0.9788636		[##]
+UC35	IDBVisitaBC	0.9788636
+UC35	IDBVisitaPR	0.9788636
+UC35	IGestionePuntiDiRistoroAgenzia	0.9788636
+UC35	IGestioneTagOperatoreAgenzia	0.9788636
+----------------------------------------------------------------------------------
+UC36	BannerNode	0.7505269
+UC36	BeanBanner	0.7505269
+UC36	BeanConvenzione	0.7505269
+UC36	BeanMenu	0.7505269
+UC36	BeanPreferenzaDiRicerca	0.7505269
+UC36	BeanTag	0.7505269
+UC36	ControlloBeniCulturali	0.7505269
+UC36	ControlloDati	0.7505269		[##]
+UC36	FeedBackTableModel	0.7505269
+UC36	PrioritaRenderer	0.7505269
+----------------------------------------------------------------------------------
+UC37	GestioneAdvertisementPuntoDiRistoro	0.8900857
+UC37	IAutenticazione	0.8900857		[##]
+UC37	IDBPreferenzeGeneriche	0.8900857
+UC37	IGestioneAdvertisement	0.8900857
+UC37	IGestioneAdvertisementAgenzia	0.8900857
+UC37	IGestioneAdvertisementPuntoDiRistoro	0.8900857
+UC37	IGestioneTuristaClient	0.8900857
+UC37	Punto3D	0.8900857
+UC37	TuristiTableModel	0.8899142
+UC37	IDBTurista	0.876581
+----------------------------------------------------------------------------------
+UC38	DBConnessionePool	0.8472166
+UC38	PuntiDiRistoro	0.843251
+UC38	reportStatistici	0.83853096
+UC38	SchedaPR	0.83853096
+UC38	IDBBanner	0.7983248		[##]
+UC38	BannerDialog	0.59033316		[##]
+UC38	IGestioneAdvertisement	0.5894934		[##]
+UC38	GestioneTuristaClient	0.50121295
+UC38	ControlServerLauncher	0.49308625
+UC38	DBVisitaBC	0.49308625
+----------------------------------------------------------------------------------
+UC39	GestioneTuristaClient	0.9210714
+UC39	GestioneAdvertisementAgenzia	0.75402737
+UC39	IGestioneAdvertisement	0.75402737		[##]
+UC39	IGestionePuntiDiRistoroComune	0.75402737
+UC39	GestioneAdvertisement	0.75387526		[##]
+UC39	BannerNode	0.7476684		[##]
+UC39	IGestionePuntiDiRistoroAgenzia	0.7400278
+UC39	GestionePuntiDiRistoroComune	0.7325185
+UC39	Fuzzy	0.72021896
+UC39	IGestioneTuristaClient	0.6943742
+----------------------------------------------------------------------------------
+UC4	ControlServerLauncher	0.75235385
+UC4	IRicerca	0.75235385		[##]
+UC4	DeskManager	0.7505913
+UC4	IGestioneBeniCulturaliAgenzia	0.7296083		[##]
+UC4	DBOperatorePuntoDiRistoro	0.7164389
+UC4	IDBVisitaPR	0.61850595
+UC4	Ricerca	0.6132803		[##]
+UC4	ControlloDati	0.55666476
+UC4	IDBVisitaBC	0.55666476
+UC4	IGestioneTuristaClient	0.511623
+----------------------------------------------------------------------------------
+UC40	ControlloBeniCulturali	0.8663177
+UC40	IGestioneAdvertisement	0.8663177		[##]
+UC40	IGestionePuntiDiRistoroComune	0.8663177
+UC40	PRNode	0.74515927
+UC40	IGestioneTuristiAgenzia	0.7381358
+UC40	IGestionePuntiDiRistoroAgenzia	0.66248494
+UC40	GestioneAdvertisement	0.3859132		[##]
+UC40	Autenticazione	0.38008717
+UC40	GestioneBeniCulturaliAgenzia	0.38008717
+UC40	GestioneAdvertisementAgenzia	0.37948796
+----------------------------------------------------------------------------------
+UC41	GestioneAdvertisement	0.9614527
+UC41	BeanBanner	0.93485534
+UC41	BeanMenu	0.93485534		[##]
+UC41	LimitedDocument	0.93485534
+UC41	BeanPreferenzeGeneriche	0.9261512
+UC41	IDBTurista	0.85947263
+UC41	DBTag	0.7907959
+UC41	IGestioneTuristiAgenzia	0.76658297
+UC41	SchedaTurista	0.7052882
+UC41	IDBMenu	0.5370616		[##]
+----------------------------------------------------------------------------------
+UC42	CostantiGlobali	0.87228477
+UC42	DBTag	0.87228477
+UC42	IDBMenu	0.87228477		[##]
+UC42	IDBTag	0.87228477
+UC42	RicercaAvanzata	0.87228477
+UC42	DBPiatto	0.8718909		[##]
+UC42	IDBConvenzione	0.8623686
+UC42	IDBNews	0.8460149
+UC42	IDBPiatto	0.80599463		[##]
+UC42	IAutenticazione	0.402854
+----------------------------------------------------------------------------------
+UC43	DBBeneCulturale	0.77543485
+UC43	IRicerca	0.7744917
+UC43	GestioneTagComune	0.76569086
+UC43	GestioneBeniCulturaliAgenzia	0.76454484
+UC43	GestionePuntiDiRistoroAgenzia	0.76454484
+UC43	GestionePuntiDiRistoroComune	0.76454484		[##]
+UC43	GestioneTuristaComune	0.76454484
+UC43	TAGTableModel	0.76454484
+UC43	GestioneBeniCulturaliComune	0.76411086
+UC43	IGestionePuntiDiRistoroComune	0.76231855		[##]
+----------------------------------------------------------------------------------
+UC44	Autenticazione	0.9659408
+UC44	GestionePuntiDiRistoroComune	0.9659408
+UC44	GestioneTagOperatoreAgenzia	0.9659408
+UC44	GestioneTuristaComune	0.9659408
+UC44	GestioneTuristiAgenzia	0.9659408
+UC44	Turisti	0.9659408
+UC44	News	0.96586496
+UC44	IAutenticazione	0.9601574
+UC44	GestioneTagComune	0.9593211
+UC44	GestionePuntiDiRistoroAgenzia	0.9584446
+----------------------------------------------------------------------------------
+UC45	Turisti	0.654796
+UC45	ReportTableModel	0.6508549
+UC45	Tag	0.64966416
+UC45	PuntiDiRistoro	0.64940745
+UC45	IDBMenu	0.59978175
+UC45	IGestionePuntiDiRistoroAgenzia	0.5716525
+UC45	reportStatistici	0.5624679
+UC45	ControlloDati	0.53326494
+UC45	DBBeneCulturale	0.5170869
+UC45	GestioneAdvertisement	0.5170869
+----------------------------------------------------------------------------------
+UC46	Punto3D	0.93046206
+UC46	Banner	0.91727376
+UC46	BeniCulturali	0.9148391
+UC46	HelpManager	0.9148391
+UC46	News	0.9148391
+UC46	Turisti	0.9148391
+UC46	MediaVotiRenderer	0.9144052
+UC46	SchedaBC	0.91426986
+UC46	Punto3DRenderer	0.9123286
+UC46	SchedaTurista	0.882824
+----------------------------------------------------------------------------------
+UC47	Fuzzy	0.80101246
+UC47	MessaggiErrore	0.7931753
+UC47	Punto3D	0.7931753
+UC47	ElencoCategorie	0.78662926
+UC47	IDBOperatorePuntoDiRistoro	0.7711336
+UC47	IGestioneAdvertisementAgenzia	0.5531246
+UC47	TuristiTableModel	0.5531246
+UC47	GestionePuntiDiRistoroAgenzia	0.19118194
+UC47	GestionePuntiDiRistoroComune	0.19118194
+UC47	GestioneTagOperatoreAgenzia	0.19118194
+----------------------------------------------------------------------------------
+UC48	IGestionePuntiDiRistoroComune	0.8901212
+UC48	IGestioneTuristaClient	0.6915338		[##]
+UC48	DBBeneCulturale	0.6599278
+UC48	IGestioneTuristiAgenzia	0.6492607
+UC48	Autenticazione	0.6305529
+UC48	ControlServerLauncher	0.6305529
+UC48	DBOperatoreAgenzia	0.6305529
+UC48	DBStatisticheLocalita	0.6305529
+UC48	DBTurista	0.6305529
+UC48	DBVisitaPR	0.6305529
+----------------------------------------------------------------------------------
+UC49	IGestioneTuristaClient	0.8700228		[##]
+UC49	IDBBanner	0.8299881
+UC49	BeanOperatoreAgenzia	0.81938004
+UC49	BeanOperatorePuntoDiRistoro	0.81938004
+UC49	BeanPiatto	0.81938004
+UC49	BeanPreferenzaDiRicerca	0.81938004
+UC49	BeanTurista	0.81938004
+UC49	DBTurista	0.81938004
+UC49	IDBConvenzione	0.81938004
+UC49	IDBPreferenzeDiRicerca	0.81938004
+----------------------------------------------------------------------------------
+UC5	IRicerca	0.90479547
+UC5	BeniCulturali	0.81159234		[##]
+UC5	Banner	0.8115257
+UC5	IAutenticazione	0.5463575
+UC5	IDBPuntoDiRistoro	0.41190484
+UC5	DBTag	0.4116951
+UC5	DBTurista	0.4116951
+UC5	GestioneTuristaClient	0.4116951
+UC5	IDBTag	0.4116951
+UC5	IGestionePuntiDiRistoroComune	0.4116951
+----------------------------------------------------------------------------------
+UC50	IRicerca	0.7877334
+UC50	GestioneAdvertisement	0.69192356
+UC50	IDBBanner	0.69192356
+UC50	IDBOperatoreAgenzia	0.69192356
+UC50	IDBOperatorePuntoDiRistoro	0.69192356
+UC50	IDBTurista	0.69192356
+UC50	IGestioneAdvertisement	0.69192356
+UC50	IGestioneTuristaClient	0.69192356
+UC50	IDBTag	0.6891541
+UC50	GestioneTuristaClient	0.68110275
+----------------------------------------------------------------------------------
+UC51	IGestioneTuristaClient	0.78329015		[##]
+UC51	GestioneAdvertisementPuntoDiRistoro	0.76423347
+UC51	IDBPreferenzeGeneriche	0.72667074		[##]
+UC51	Ricerca	0.7165512
+UC51	IDBBeneCulturale	0.65349627
+UC51	ControlloDati	0.6003748		[##]
+UC51	ControlServerLauncher	0.6002803
+UC51	GestioneAdvertisement	0.6002803
+UC51	GestioneAdvertisementAgenzia	0.6002803
+UC51	GestioneBeniCulturaliAgenzia	0.6002803
+----------------------------------------------------------------------------------
+UC52	IGestioneBeniCulturaliAgenzia	0.95910007
+UC52	IRicerca	0.9478841
+UC52	Ricerca	0.9317404
+UC52	IDBTag	0.91150844
+UC52	IGestionePuntiDiRistoroComune	0.90211385
+UC52	DeskManager	0.8227657
+UC52	IGestioneBeniCulturaliComune	0.8227657
+UC52	BeanMenu	0.75599885
+UC52	PRNode	0.69598293
+UC52	IGestioneTagOperatoreAgenzia	0.6759889
+----------------------------------------------------------------------------------
+UC53	Autenticazione	0.99016243
+UC53	CostantiGlobali	0.99016243
+UC53	GestioneTuristaClient	0.99016243
+UC53	GestioneTuristaComune	0.99016243
+UC53	GestioneTuristiAgenzia	0.99016243
+UC53	IGestionePuntiDiRistoroAgenzia	0.99016243
+UC53	IGestioneTagComune	0.99016243
+UC53	IGestioneTagOperatoreAgenzia	0.99016243
+UC53	IGestioneTuristaClient	0.99016243
+UC53	IGestioneTuristiAgenzia	0.99016243
+----------------------------------------------------------------------------------
+UC54	IDBVisitaBC	0.99420905		[##]
+UC54	BeanBanner	0.9931313
+UC54	GestioneAdvertisement	0.9931313
+UC54	GestioneBeniCulturaliAgenzia	0.9931313
+UC54	GestioneBeniCulturaliComune	0.9931313
+UC54	GestionePuntiDiRistoroAgenzia	0.9931313
+UC54	GestioneTagComune	0.9931313
+UC54	GestioneTagOperatoreAgenzia	0.9931313
+UC54	GestioneTuristaComune	0.9931313
+UC54	GestioneTuristiAgenzia	0.9931313
+----------------------------------------------------------------------------------
+UC55	IAutenticazione	0.98609406
+UC55	reportStatistici	0.909878
+UC55	SchedaPR	0.909878
+UC55	Tag	0.909878
+UC55	PuntiDiRistoro	0.9094163
+UC55	MessaggiErrore	0.90757847
+UC55	GestioneAdvertisement	0.84129417
+UC55	BeniCulturali	0.79302293
+UC55	Banner	0.71944207
+UC55	SchedaBC	0.38401368
+----------------------------------------------------------------------------------
+UC56	GestioneTuristaClient	0.9002238
+UC56	GestioneAdvertisementAgenzia	0.8939262
+UC56	DBPreferenzeGeneriche	0.80682534
+UC56	ControlloVisiteBeniCulturali	0.7427075
+UC56	Autenticazione	0.7004471
+UC56	Fuzzy	0.5998874
+UC56	IGestioneTuristiAgenzia	0.5414951
+UC56	IDBOperatoreAgenzia	0.47906494
+UC56	DBConnessionePool	0.42610607
+UC56	IAutenticazione	0.42610607
+----------------------------------------------------------------------------------
+UC57	DBPuntoDiRistoro	0.8864959
+UC57	DBTurista	0.8864959
+UC57	IDBBanner	0.8864959
+UC57	IDBConvenzione	0.8864959
+UC57	IDBMenu	0.8864959
+UC57	IDBOperatorePuntoDiRistoro	0.8864959
+UC57	IDBPuntoDiRistoro	0.8864959
+UC57	IDBVisitaPR	0.8864959
+UC57	IGestioneAdvertisement	0.88579106
+UC57	GestioneAdvertisement	0.80000967
+----------------------------------------------------------------------------------
+UC58	BeanPiatto	0.89089423
+UC58	BeanPreferenzeGeneriche	0.89089423
+UC58	CostantiGlobali	0.89089423
+UC58	IDBBeneCulturale	0.89089423
+UC58	IDBPuntoDiRistoro	0.89089423
+UC58	IDBTurista	0.89089423
+UC58	RicercaStandard	0.89089423
+UC58	BeanConvenzione	0.8881023
+UC58	Ricerca	0.8767616
+UC58	IDBMenu	0.8020581
+----------------------------------------------------------------------------------
+UC6	IDBPreferenzeDiRicerca	0.930418
+UC6	IDBPreferenzeGeneriche	0.7208222
+UC6	DBPreferenzeGeneriche	0.70213306
+UC6	IGestionePuntiDiRistoroAgenzia	0.70213306		[##]
+UC6	DBBeneCulturale	0.64791226
+UC6	DBConnessionePool	0.64791226
+UC6	DBNews	0.64791226
+UC6	DBTurista	0.64791226
+UC6	IDBNews	0.64791226
+UC6	IDBPiatto	0.64791226
+----------------------------------------------------------------------------------
+UC7	GestionePuntiDiRistoroAgenzia	0.64816904		[##]
+UC7	DBVisitaBC	0.6419898
+UC7	GestionePuntiDiRistoroComune	0.6419898
+UC7	GestioneTagComune	0.6419898
+UC7	GestioneTagOperatoreAgenzia	0.6419898
+UC7	IGestioneTagComune	0.6419898
+UC7	DBNews	0.63807356
+UC7	IGestioneAdvertisement	0.63687617
+UC7	GestioneTuristiAgenzia	0.6339069
+UC7	IGestionePuntiDiRistoroComune	0.63341093
+----------------------------------------------------------------------------------
+UC8	IDBOperatoreAgenzia	0.8353743
+UC8	DBOperatoreAgenzia	0.727095
+UC8	FeedBackTableModel	0.727095
+UC8	PrioritaRenderer	0.727095
+UC8	Punto3DRenderer	0.727095
+UC8	IGestioneTuristiAgenzia	0.6876221
+UC8	IDBMenu	0.68115306
+UC8	IDBOperatorePuntoDiRistoro	0.68115306
+UC8	IDBPiatto	0.68115306
+UC8	IDBTurista	0.68115306
+----------------------------------------------------------------------------------
+UC9	DBNews	0.74589044
+UC9	DBTurista	0.74589044
+UC9	IDBConvenzione	0.74589044
+UC9	IDBMenu	0.74589044
+UC9	IDBOperatoreAgenzia	0.74589044
+UC9	IDBOperatorePuntoDiRistoro	0.74589044
+UC9	IDBPreferenzeDiRicerca	0.74589044
+UC9	IDBTurista	0.74589044
+UC9	ScrollableTable	0.74589044
+UC9	IDBPreferenzeGeneriche	0.7375408
+----------------------------------------------------------------------------------

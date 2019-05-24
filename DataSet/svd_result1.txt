@@ -1,0 +1,64 @@
+Use case name ELIMINABENECULTURALE 
+Delete a cultural object in the system. 
+
+Actor initialization Agency Operator 
+
+Operator conditions  The agency has logged. 
+Flow of events User System 
+case a the of 1. View list BeniCulturali as result use RicercaBeneCulturale, it selects and activates function elimination. 
+2 Asks confirmation. 
+the 3 Confirm operation. 
+Delete cultural the 4 choice. 
+the conditions  The of Exit system shall notify successful elimination cultural. 
+the Agency Operator  operation. cancels 
+the  of Interruption connection to server ETOUR. 
+
+the The of operation. system to requirements blocks input controls on receipt confirmation cancellation avoid multiple submissions before end 
+Use case name ELIMINABENECULTURALE 
+Delete a cultural object in the system. 
+
+Actor initialization Agency Operator 
+
+Operator conditions  The agency has logged. 
+Flow of events User System 
+case a the of 1. View list BeniCulturali as result use RicercaBeneCulturale, it selects and activates function elimination. 
+2 Asks confirmation. 
+the 3 Confirm operation. 
+Delete cultural the 4 choice. 
+the conditions  The of Exit system shall notify successful elimination cultural. 
+the Agency Operator  operation. cancels 
+the  of Interruption connection to server ETOUR. 
+
+the The of operation. system to requirements blocks input controls on receipt confirmation cancellation avoid multiple submissions before end 
+Use case name ELIMINABENECULTURALE 
+Delete a cultural object in the system. 
+
+Actor initialization Agency Operator 
+
+Operator conditions  The agency has logged. 
+Flow of events User System 
+case a the of 1. View list BeniCulturali as result use RicercaBeneCulturale, it selects and activates function elimination. 
+2 Asks confirmation. 
+the 3 Confirm operation. 
+Delete cultural the 4 choice. 
+the conditions  The of Exit system shall notify successful elimination cultural. 
+the Agency Operator  operation. cancels 
+the  of Interruption connection to server ETOUR. 
+
+the The of operation. system to requirements blocks input controls on receipt confirmation cancellation avoid multiple submissions before end 
+Use case name ELIMINABENECULTURALE 
+Delete a cultural object in the system. 
+
+Actor initialization Agency Operator 
+
+Operator conditions  The agency has logged. 
+Flow of events User System 
+case a the of 1. View list BeniCulturali as result use RicercaBeneCulturale, it selects and activates function elimination. 
+2 Asks confirmation. 
+the 3 Confirm operation. 
+Delete cultural the 4 choice. 
+the conditions  The of Exit system shall notify successful elimination cultural. 
+the Agency Operator  operation. cancels 
+the  of Interruption connection to server ETOUR. 
+
+the The of operation. system to requirements blocks input controls on receipt confirmation cancellation avoid multiple submissions before end 

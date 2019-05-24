@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/DataSet/svd_result1.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/StopWords/stopwords_Full.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UC/UC1.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UC/UC2.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UC/UC3.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UC/UC4.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UseCase/UC1.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UseCase/UC13.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UseCase/UC2.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/UseCase/UC3.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/DBBanner.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/DBConvenzione.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/DBNews.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/DBOperatoreAgenzia.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/GestioneBeniCulturaliAgenzia.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/HelpManager.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/IAutenticazione.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/IGestioneAdvertisementAgenzia.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/IGestioneBeniCulturaliAgenzia.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/IRicerca.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/NewsTableModelTest.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/OperatoreAgenzia.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/ReportTableModel.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/RicercaStandard.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/SchedaPR.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/SitoTableModel.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/TAGTableModel.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/TestoNewsRendererTest.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/Turisti.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/CC/reportStatistici.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/Preprocessed/eTour_ENG/stopwords.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/UC/UC1.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/UC/UC13.TXT" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/input/eTOUR/UC/UC2.TXT" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
